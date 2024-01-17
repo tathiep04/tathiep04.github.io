@@ -14,7 +14,12 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/posts/Statistical Modeling with R/index.html",
       "/posts/welcome/index.html"
     ]
+  },
+  {
+    "listing": "/posts/Statistical Modeling with R/index.html",
+    "items": []
   }
 ]
